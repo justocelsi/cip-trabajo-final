@@ -1,0 +1,6 @@
+{
+  "name": "cip-trabajo-final-presentacion",
+  "private": true,
+  "description": "Genera el borrador de diapositivas del trabajo final",
+  "dependencies": { "pptxgenjs": "^4.0.1" }
+}
