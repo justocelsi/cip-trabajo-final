@@ -79,7 +79,7 @@ pres.addSection({ title: "Portada" });
   s.addText("Dos relatos de la identidad argentina", { placeholder: "body" });
   s.addText([
     { text: "Eje 1: cultura, identidad y poder", options: { breakLine: true } },
-    { text: "Justo Celsi, Santi y Santi · miércoles 25 de noviembre de 2026" },
+    { text: "Justo, Santi y Santi · miércoles 25 de noviembre de 2026" },
   ], { x: 0.6, y: 4.3, w: 8.8, h: 0.8, fontSize: 16, color: "FFFFFF", margin: 0, paraSpaceAfter: 4, isTextBox: true });
   s.addNotes("Presentamos el trabajo final. Elegimos el eje de cultura, identidad y poder, y dos relatos que cualquier argentino conoce desde la escuela: Malvinas y la Campaña del Desierto.");
 }

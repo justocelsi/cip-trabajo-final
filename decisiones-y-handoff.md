@@ -1,3 +1,11 @@
+> **Superado por [trabajo.md](trabajo.md) (11/11).** Quedan abiertas solo la 6 (cómo entran las clases de
+> medios) y la 7 (la bandera). Las demás ya las resolvió el eje:
+> 1, la pregunta: la de trabajo.md. 2, el orden: por tensión, en los análisis 1 a 4.
+> 3, los autores: Hall, Wolf, Oszlak / Abal Medina, O'Donnell y García Canclini.
+> 4, qué Canclini: *Ciudadanos reemplazados por algoritmos*. 5, las adicionales: Briones y Delrio (2007),
+> Guber (2020) y Grimson (2000). 8, el reparto: bloques A, B y C, sin nombres todavía.
+> La tabla «Lo que falta hacer» y el handoff son del plan anterior. Lo que sigue valiendo es «Material encontrado».
+
 # Decisiones a tomar
 
 Trabajo final de Cultura, Identidad y Política · Justo, Santi y el otro Santi · exponen el **miércoles 25/11**

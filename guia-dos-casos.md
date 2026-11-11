@@ -1,3 +1,7 @@
+> **Contexto, no el eje.** Se escribió antes del documento de Santi, sobre la pregunta vieja. El recorte
+> (1994), la pregunta y los autores están en [trabajo.md](trabajo.md). Esta guía sirve para la historia de
+> los dos casos y para las preguntas de la defensa. Lo marcado 🔎 sigue sin verificar.
+
 # Cultura, Identidad y Política: el trabajo final sobre Malvinas y la Campaña del Desierto (miércoles 11/11/2026)
 
 **De dónde sale cada cosa:** los conceptos y las páginas salen del
